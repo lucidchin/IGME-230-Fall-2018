@@ -4,7 +4,7 @@
 This week we will continue working with PixiJS, and complete our game HW, *Circle Blast!*, in preparation for the final project.
 
 ## II. Projects
-- [Project 3 - Sprite-based Game or Experience](../projects/project3.md)
+- [Project 4 - Sprite-based Game or Experience](../projects/project4.md)
 
 ## III. Assignments
 The required readings and assignments for this week are here (see myCourses dropboxes for the due dates):
